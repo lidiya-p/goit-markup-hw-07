@@ -1,0 +1,19 @@
+.page-header {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #ECECEC;
+
+    background-color: var(--bcg-main);
+}
+
+.page-header__logo {
+    padding-top: 24px;
+    padding-bottom: 25px;
+    margin-right: 93px;
+}
+
+.page-header__container,
+.nav {
+    display: flex;
+    align-items: center;
+}

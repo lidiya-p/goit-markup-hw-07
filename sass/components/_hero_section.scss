@@ -1,0 +1,15 @@
+.hero-section {
+    margin: 0 auto;
+    padding: 200px 0;
+
+    max-width: 1600px;
+
+    background-color: var(--bcg-hero);
+
+    text-align: center;
+
+    background-image: linear-gradient(to right,
+            rgba(47, 48, 58, 0.4),
+            rgba(47, 48, 58, 0.4)),
+        url(../images/overlay.jpg);
+}
